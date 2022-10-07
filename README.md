@@ -1,2 +1,6 @@
-# t-shirt-cannon
-T-Shirt Cannon Robot
+# T-Shirt Cannon
+Raspberry Pi-based Pneumatic T-Shirt Launcher
+
+## Resources
+
+## Contributing
